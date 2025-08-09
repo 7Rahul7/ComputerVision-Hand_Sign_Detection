@@ -60,6 +60,7 @@ source .venv/bin/activate   # For Linux/Mac
 
 ```bash
 uv sync
+uv pip install -r requirements.txt
 ```
 
 ### 4. Run Scripts
